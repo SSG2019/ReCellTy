@@ -1,7 +1,7 @@
 # Reconstructing cells from graph dataset: Retrieval-Augmented LLM workflow for cell type annotation
 <p align="center">
-  <img src="data/graph_nofont.svg" alt="No Font" width="320" />
-  <img src="data/graph_font.svg" alt="With Font" width="320" />
+  <img src="data/graph_nofont.svg" alt="No Font" width="360" />
+  <img src="data/graph_font.svg" alt="With Font" width="360" />
 </p>
 
 
