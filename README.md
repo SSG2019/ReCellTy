@@ -83,7 +83,7 @@ Run the `UI.py` file to launch the mini program. Below is an example.
 python UI.py
 ```
 
-<div style="text-align: center;">
+<p align="center">
 <img src="data/example.gif" alt="My GIF" width="400"/>
 </div>
 
