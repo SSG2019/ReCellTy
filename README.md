@@ -1,8 +1,9 @@
 # Reconstructing cells from graph dataset: Retrieval-Augmented LLM workflow for cell type annotation
-<div style="text-align: center;">
-  <img src="data/graph_nofont.svg" alt="No Font" width="320" style="display: inline-block;">
-  <img src="data/graph_font.svg" alt="With Font" width="320" style="display: inline-block; margin-right: 10px;">
-</div>
+<p align="center">
+  <img src="data/graph_nofont.svg" alt="No Font" width="320" />
+  <img src="data/graph_font.svg" alt="With Font" width="320" />
+</p>
+
 
 This repository accompanies our research paper titled "[Reconstructing cells from graph dataset: Retrieval-Augmented LLM workflow for cell type annotation]()." 
 It includes the core module for cell type annotation using graph datasets and Retrieval-Augmented LLMs. Below are the steps to set up the environment, retrieve graph data, and run the ReCellTy pipeline.
