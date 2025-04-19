@@ -88,7 +88,7 @@ python UI.py
 </div>
 
 
-More methods and experiments can be found at [ReCellTy-paper]()
+More methods and experiments can be found at [ReCellTy-paper](https://github.com/SSG2019/ReCellTy-paper)
 
 
 
