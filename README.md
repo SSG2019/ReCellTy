@@ -5,7 +5,7 @@
 </p>
 
 
-This repository accompanies our research paper titled "[Reconstructing cells from graph dataset: Retrieval-Augmented LLM workflow for cell type annotation]()." 
+This repository accompanies our research paper titled "Reconstructing cells from graph dataset: Retrieval-Augmented LLM workflow for cell type annotation." [arxiv](), [biorxiv](https://www.biorxiv.org/content/10.1101/2025.04.23.650201v1).
 It includes the core module for cell type annotation using graph datasets and Retrieval-Augmented LLMs. Below are the steps to set up the environment, retrieve graph data, and run the ReCellTy pipeline.
 
 
